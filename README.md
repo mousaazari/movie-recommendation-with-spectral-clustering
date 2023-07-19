@@ -2,7 +2,7 @@
 
 To overcome problems such as sparsity of the data and long computation time, we propose a model that combines one of the most commonly used recommender algorithms, Collaborative Filtering (CF), with spectral clustering (SC) which obtains promising clustering results -compared to other clustering algorithms- with sparse data in relatively short computation time.
 
-##Key Features
+## Key Features
 Collaborative Filtering (CF): A widely used recommendation technique that analyzes user-item interactions to predict user preferences and generate recommendations.
 
 Spectral Clustering (SC): A clustering algorithm that utilizes the spectrum of a similarity matrix to partition data points into groups, providing efficient and accurate clustering results even with sparse data.
